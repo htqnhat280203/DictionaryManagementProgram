@@ -1,0 +1,3 @@
+turtle | rua
+duck | vit
+dog | chó
